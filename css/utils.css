@@ -1,0 +1,45 @@
+.flex-all-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn {
+    padding: 7px 10px;
+    color: white;
+    background-color: var(--main-bg-color);
+    cursor: pointer;
+    font-weight: bolder;
+    border: none;
+    font-size: 16px;
+}
+
+.btn1 {
+    padding: 7px 30px;
+    color: var(--main-bg-color);
+    background-color: white;
+    border: 1px solid #ffffffd6;
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.m1 {
+    padding: 20px;
+}
+
+.m2 {
+    font-family: Roboto, Arial, sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    margin: 4px 0;
+}
+
+.text-centermy-2 {
+    color: green;
+}
+
+.category-item:hover {
+    color: var(--main-bg-color);
+}
