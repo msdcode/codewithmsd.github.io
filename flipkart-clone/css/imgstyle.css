@@ -1,0 +1,106 @@
+.cameras {
+    width: 230px;
+}
+
+.cameras:hover {
+    width: 233px;
+}
+
+.Realme {
+    width: 160px;
+}
+
+.Realme:hover {
+    width: 163px;
+}
+
+.iphone {
+    width: 122px;
+}
+
+.iphone:hover {
+    width: 125px;
+}
+
+.Printers {
+    width: 315px;
+}
+
+.Printers:hover {
+    width: 318px;
+}
+
+.Redmi {
+    width: 136px;
+}
+
+.Redmi:hover {
+    width: 139px;
+}
+
+.cycles {
+    width: 265px;
+}
+
+.bats {
+    height: 171px;
+    padding: 0 32px;
+}
+
+.dryfruits {
+    width: 117px;
+}
+
+.yogamats {
+    width: 300px;
+}
+
+.badminton {
+    height: 173px;
+    padding: 0 32px;
+}
+
+.hairdryer{
+    height: 160px;
+}
+
+.paintings{
+    width: 160px;
+}
+
+.bathlilensets{
+    width: 160px;
+}
+
+.diyas{
+    width: 160px;
+}
+
+.bedsheets{
+    width: 160px;
+}
+
+.mattresses{
+    width: 238px;
+}
+
+.gym{
+    width: 165px;
+}
+
+.foodspreads{
+    width: 140px;
+}
+
+.dumble{
+    width: 160px;
+}
+
+.powertools{
+    width: 160px;
+}
+
+.studio{
+    height: 165px;
+    margin: 0 23px;
+}
